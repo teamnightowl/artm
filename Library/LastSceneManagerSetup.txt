@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/ARTM2.unity.unity
+  isLoaded: 1
+  isActive: 1
